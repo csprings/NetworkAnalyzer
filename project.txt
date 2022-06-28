@@ -1,0 +1,4 @@
+	Name: NetworkAnalyzer
+	Directory: C:\Program Files\Keysight\Test Automation\Packages\Python\NetworkAnalyzer
+	Version: 0.0.1
+	Description: This is a python-based plugin for OpenTAP.
